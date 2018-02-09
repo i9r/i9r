@@ -2,4 +2,12 @@
 title: "新闻"
 date: 2017-03-02T12:00:00-05:00
 ---
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+"通过个人爱用者的社团，促进会员对红酒鉴赏的知识提高，最终形成一个红酒评价群众基础，团结个人单元，发出共同声音：打倒假酒！"  
+
+共享——爱酒人俱乐部愿与机构和品牌共享信息化带来的便捷；共享知识、健康与快乐；共享与世界同步的信息文明。  
+
+共创——爱酒人俱乐部愿与机构和品牌共创和谐平安的信息社会；共创商机、创新业务、创造价值；共同开创美好的未来。  
+
+共进——爱酒人俱乐部愿与机构和品牌加强沟通交流、携手同心、共同进步。  
+
+团购——爱酒人俱乐部愿与机构和品牌共同推动市场、加强团购力量，把液体黄金推荐给中国这个正在走向富强的20%的先富起来的那一部份中国人。  
