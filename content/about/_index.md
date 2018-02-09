@@ -1,6 +1,6 @@
 ---
-title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+title: "关于"
+description: "爱酒人俱乐部是一个第三方葡萄酒服务机构，主要以团结全国各市地爱酒人为宗旨，坚持葡萄酒保真原则，开展品酒会策划组织。至今已经成功组织策划执行西班牙拉曼恰25个酒庄的专业观众厦门品鉴会。"
 featured_image: ''
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}

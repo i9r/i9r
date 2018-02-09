@@ -1,10 +1,10 @@
-title = "Notre-Dame de Paris"
+title = "爱酒人俱乐部"
 baseURL = "https://example.com"
-languageCode = "en-us"
+languageCode = "zh_cn"
 theme = "gohugo-theme-ananke"
 
 MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "zh"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
