@@ -4,7 +4,6 @@ description: Esmeralda
 featured_image: "/images/esmeralda.jpg"
 tags: []
 title: 'Chapter VI: Esmeralda'
-draft: true
 
 ---
 We are delighted to be able to inform the reader, that during the whole of
