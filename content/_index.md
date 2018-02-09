@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "相信粉丝的力量"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: "爱酒人俱乐部是全球第三方红酒平台，所以我们专注与爱酒人分享。目前，在全国范围内团结了5万个粉丝，签约的多达60个微粉小伙伴社团，各地社团俱乐部以品酒会、红酒课堂等形式让爱酒人粉丝分享红酒之醇美。"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+众所周知，如今红酒进口市场良莠不齐，全国的红酒经销商和消费者都面对着“信息不对称”的困扰。爱酒人俱乐部的5名WSET国际高级品酒师、3名美国ISG高级品酒顾问和68名国家高级品酒师就能解决这个困扰。合作伙伴为厦门象屿保税区和海沧保税区的138家葡萄酒进口公司，找酒范围囊括法国、意大利、西班牙等不同产地、50元以下到500元以上等不同价格的原装进口红酒。  
