@@ -1,4 +1,6 @@
 ---
+pages:
+- post/club-rules.md
 hide_body: false
 fields:
 - name: title
